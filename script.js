@@ -7,7 +7,7 @@ if (window.location.pathname.includes("dashboard.html")) {
   }
 }
 
-const API = "const API = "https://day18-backend.onrender.com";
+const API = "https://day18-backend.onrender.com";
 
 // Login
 document.getElementById("loginForm")?.addEventListener("submit", async (e) => {
